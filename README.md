@@ -12,9 +12,6 @@ Responsive Design: The client application is designed to be responsive and work 
 
 
 
-
-
-
 Technologies Used
 
 React: The project is built using React, a popular JavaScript library for building user interfaces.
@@ -30,8 +27,6 @@ Installation
 
 To set up the Expense Tracker React Client project locally, follow these steps:
 
-
-Clone the repository: git clone git@github.com:jaiminpatel047/expense-tracker.git
 
 Navigate to the project directory: cd expense-tracker-react-client
 
